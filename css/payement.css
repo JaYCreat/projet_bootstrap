@@ -1,0 +1,56 @@
+body
+{
+    background: rgba(26, 26, 26, 0.767);
+
+}
+
+.form1{
+    background-color: rgb(219, 219, 219);
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    border: 2px solid;
+    border-radius: 15px;
+    width: 400px;
+    height: 500px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form2{
+    background-color: rgb(219, 219, 219);
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    border: 2px solid;
+    border-radius: 15px;
+    width: 400px;
+    height: 500px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#exampleInputEmail1, #inputPassword5{
+    width: 300px;
+}
+
+
+
+
+button a{
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    position: relative;
+
+    top: 10%;
+    width: 100%;
+}

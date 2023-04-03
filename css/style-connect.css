@@ -1,0 +1,39 @@
+body
+{
+    background: rgba(37, 85, 100, 0.767);
+
+}
+
+form{
+    background-color: rgb(66, 213, 224);
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    border: 2px solid;
+    border-radius: 15px;
+    width: 400px;
+    height: 500px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#exampleInputEmail1, #inputPassword5{
+    width: 300px;
+}
+
+
+
+button a{
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    position: relative;
+
+    top: 10%;
+    width: 100%;
+}
